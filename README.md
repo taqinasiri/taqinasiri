@@ -17,6 +17,11 @@
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
  
 # 📊 GitHub Stats:
+ 
+<details>
+  <summary><h3>Activity in the month</h3></summary>
+  <td align="center" colspan=""><a href="https://github.com/nasirimohammadtaqi"><img style="width:100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nasirimohammadtaqi&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a>
+</details>
 <div align="center">
 <table>
 <tr>
