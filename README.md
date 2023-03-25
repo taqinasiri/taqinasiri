@@ -11,7 +11,8 @@
 
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
- ![Asp.netCore](https://img.shields.io/badge/Asp.net%20core-3a0bbd?style=for-the-badge&logo=.net&logoColor=white) </br> 
+ ![Asp.netCore](https://img.shields.io/badge/Asp.net%20core-3a0bbd?style=for-the-badge&logo=.net&logoColor=white)
+ ![Blazor](https://img.shields.io/badge/Blazor-592C8C?style=for-the-badge&logo=blazor&logoColor=white) </br> 
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) </br>
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
