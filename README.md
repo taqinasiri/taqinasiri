@@ -4,7 +4,7 @@
 🌱 I’m currently learning Asp.net core, C# </br></br>
 [![Github](https://img.shields.io/github/followers/taqinasiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taqinasiri) 
 [![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://stackoverflow.com/users/16142793) <br>
-[![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtaqinasiri)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqinasiri)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16142793)
 
 # 💻 Tech Stack:
