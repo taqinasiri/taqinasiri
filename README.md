@@ -28,7 +28,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><a href="https://github.com/taqinasiri"><img  style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqinasiri&theme=github_dark&include_all_commits=true&count_private=true&layout=demo" alt="Top Languages"></a></td>
+<td align="center"><a href="https://github.com/taqinasiri"><img  style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqinasiri&theme=github_dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></a></td>
 <td align="center"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taqinasiri&theme=github_dark&show_icons=true" /></a></td>
 </tr>
 <tr>
