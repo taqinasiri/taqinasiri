@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Mohammad Taqi Nasiri</h1>
 
 # 👨‍💻 About Me :
-🌱 I’m currently learning Asp.net core, C# </br></br>
 [![Github](https://img.shields.io/github/followers/taqinasiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taqinasiri) 
 [![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://stackoverflow.com/users/16142793) <br>
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqinasiri)
@@ -20,20 +19,15 @@
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
  
 # 📊 GitHub Stats:
- 
-<details>
-  <summary><h3>Activity in the month</h3></summary>
-  <td align="center" colspan=""><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=taqinasiri&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a>
-</details>
+
 <div align="center">
 <table>
 <tr>
 <td align="center"><a href="https://github.com/taqinasiri"><img  style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqinasiri&theme=github_dark&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></a></td>
-<td align="center"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taqinasiri&theme=github_dark&show_icons=true" /></a></td>
+ <td align="center"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=taqinasiri&theme=github_dark&include_all_commits=true&count_private=true" alt="Stats"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=taqinasiri&theme=github_dark&include_all_commits=true&count_private=true" alt="Stats"></a></td>
-<td align="center"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taqinasiri&theme=github-dark-blue" ali" /></a></td>
+  <td align="center" colspan="2"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=taqinasiri&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
 </tr>
 </table>
 </div>
