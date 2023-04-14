@@ -5,6 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://stackoverflow.com/users/16142793) <br>
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqinasiri)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16142793)
+[![Nuget](https://img.shields.io/badge/-Nuget-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/MohammadTaqiNasiri)
 
 # 💻 Tech Stack:
 
