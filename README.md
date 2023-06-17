@@ -28,7 +28,7 @@
  <td align="center"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=taqinasiri&theme=github_dark&include_all_commits=true&count_private=true" alt="Stats"></a></td>
 </tr>
 <tr>
-  <td align="center" colspan="2"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=taqinasiri&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
+  <td align="center" colspan="2"><a href="https://github.com/taqinasiri"><img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=taqinasiri&bg_color=0D1117&color=58A5FE&line=58A5FE&point=FFFFFF" alt="Stats"></a></td>
 </tr>
 </table>
 </div>
