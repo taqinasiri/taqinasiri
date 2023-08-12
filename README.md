@@ -18,6 +18,7 @@
  ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) </br>
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+ ![Tailwindcss](https://img.shields.io/badge/tailwind%20css-2C8EBE?style=for-the-badge&logo=tailwindcss&logoColor=white)
  
 # 📊 GitHub Stats:
 
