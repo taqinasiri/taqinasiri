@@ -3,10 +3,11 @@
 # 👨‍💻 About Me :
 [![WebSite](https://img.shields.io/badge/WebSite-162451?style=for-the-badge)](https://taqinasiri.com)
 [![Github](https://img.shields.io/github/followers/taqinasiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taqinasiri) 
-[![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://github.com/taqinasiri) <br>
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqinasiri0)
+[![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://github.com/taqinasiri) </br>
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-nasiri)
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16142793)
-[![Nuget](https://img.shields.io/badge/Nuget-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/MohammadTaqiNasiri)
+[![Nuget](https://img.shields.io/badge/Nuget-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/MohammadTaqiNasiri) </br>
+[![Send Mail](https://img.shields.io/badge/taqinasiri@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:taqinasiri@outlook,com)
 # 💻 Tech Stack:
 
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -16,7 +17,8 @@
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) </br>
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) </br>
+ ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+ ![TypeScript](https://img.shields.io/badge/typecript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) </br>
  ![VueJs](https://img.shields.io/badge/VueJs-42B883?style=for-the-badge&logo=vue.js&logoColor=white) </br>
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
  ![Tailwindcss](https://img.shields.io/badge/tailwind%20css-2C8EBE?style=for-the-badge&logo=tailwindcss&logoColor=white)
