@@ -1,31 +1,25 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Mohammad Taqi Nasiri</h1>
 
 # 👨‍💻 About Me :
-[![WebSite](https://img.shields.io/badge/WebSite-162451?style=for-the-badge)](https://taqinasiri.com)
+**I’m Taqi, a passionate .NET backend and game developer eager to tackle new challenges!**
+
+- 💻 I work with C#, ASP.NET Core, and enjoy creating solid applications.
+- 🎮 I love using Unity to craft engaging and immersive games.
+- 🔭 I'm passionate about reinventing the wheel and learning new technologies.
+- 🤝 I’m always eager to connect and collaborate on innovative projects.
+- 📫 Feel free to reach out if you want to connect or work together!
+
+
+
 [![Github](https://img.shields.io/github/followers/taqinasiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/taqinasiri) 
 [![Profile Views](https://komarev.com/ghpvc/?username=taqinasiri&&style=for-the-badge)](https://github.com/taqinasiri) </br>
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-nasiri)
+[![Send Mail](https://img.shields.io/badge/taqinasiri@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:taqinasiri@outlook,com)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-nasiri) </br>
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16142793)
 [![Nuget](https://img.shields.io/badge/Nuget-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/Taqi) </br>
-[![Send Mail](https://img.shields.io/badge/taqinasiri@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:taqinasiri@outlook,com) </br>
-[![Donate](https://img.shields.io/badge/Donate-FEB542?style=for-the-badge&logo=buymeacoffee&logoColor=222222)](https://www.coffeete.ir/taqi)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taqiam_)
 
 
-# 💻 Tech Stack:
-
-![.Unity](https://img.shields.io/badge/Unity-181818?style=for-the-badge&logo=unity&logoColor=white) </br> 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Asp.netCore](https://img.shields.io/badge/Asp.net%20core-3a0bbd?style=for-the-badge&logo=.net&logoColor=white) 
-![Blazor](https://img.shields.io/badge/Blazor-592C8C?style=for-the-badge&logo=blazor&logoColor=white) </br> 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) </br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typecript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) </br>
-![VueJs](https://img.shields.io/badge/VueJs-42B883?style=for-the-badge&logo=vue.js&logoColor=white) </br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/tailwind%20css-2C8EBE?style=for-the-badge&logo=tailwindcss&logoColor=white)
  
 # 📊 GitHub Stats:
 
